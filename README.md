@@ -1,2 +1,2 @@
-# repo_prueba
-Esto es un repositorio de prueba
+# Tests
+This repo is just meant for doing tests
